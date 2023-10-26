@@ -27,3 +27,4 @@ Submit a pull request or send me an email if you have fixed code or new features
 ## Bugs / Issues / Requests
 Email: devopsdinosaur _a_t_ gmail _d_o_t_ com)
 
+Note: all i did was compile the SpawnInPlace.dll file
