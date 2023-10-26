@@ -27,5 +27,5 @@ Submit a pull request or send me an email if you have fixed code or new features
 ## Bugs / Issues / Requests
 Email: devopsdinosaur _a_t_ gmail _d_o_t_ com)
 
-Note: All I did was compile the SpawnInPlace.dll file
+Note: All I did was compile the SpawnInPlace.dll file.
 This is an unofficial update to A21 of 7 Days to Die
