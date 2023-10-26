@@ -6,7 +6,7 @@
 - Optional: Uncomment lines in Config/entityclasses to remove death XP penalty
 
 ## Mod Installation
-Extract the archive or copy cloned git repo to <7D2D_Home>/Mods dir.  This mod uses Harmony and will only work with A20 and above.
+Extract the archive or copy cloned git repo to <7D2D_Home>/Mods dir.  This mod uses Harmony and will only work with A21 and above.
 
 ## Building
 
