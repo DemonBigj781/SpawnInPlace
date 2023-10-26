@@ -21,7 +21,8 @@ Extract the archive or copy cloned git repo to <7D2D_Home>/Mods dir.  This mod u
 Submit a pull request or send me an email if you have fixed code or new features to add.
 
 ## Thanks
-- I used sphereii's guides and code for all the Harmony stuff
+- devopsdinosaur used sphereii's guides and code for all the Harmony stuff
+- 
 
 ## Bugs / Issues / Requests
 Email: devopsdinosaur _a_t_ gmail _d_o_t_ com)
