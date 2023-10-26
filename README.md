@@ -22,7 +22,7 @@ Submit a pull request or send me an email if you have fixed code or new features
 
 ## Thanks
 - devopsdinosaur used sphereii's guides and code for all the Harmony stuff
-- 
+- ktrainn for the A21 compatability edit
 
 ## Bugs / Issues / Requests
 Email: devopsdinosaur _a_t_ gmail _d_o_t_ com)
